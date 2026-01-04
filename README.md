@@ -14,14 +14,13 @@
 [🌐 Website](#-website-features) • [📱 Mobile App](#-mobile-app-features) • [🚀 Quick Start](#-quick-start) • [📖 Documentation](#-api-documentation)
 
 ---
-
+![alt text](<WhatsApp Image 2026-01-05 at 12.07.21 AM.jpeg>)
 </div>
 
 ## 📋 Table of Contents
 
 - [✨ Overview](#-overview)
-- [🎬 Demo](#-demo)
-- [🌐 Website Features](#-website-features)
+- [ Website Features](#-website-features)
 - [📱 Mobile App Features](#-mobile-app-features)
 - [🏗️ Architecture](#️-architecture)
 - [🛠️ Tech Stack](#️-tech-stack)
@@ -48,21 +47,7 @@
 
 ---
 
-## 🎬 Demo
-
-<div align="center">
-
-### 🎥 Watch MICRO in Action
-
-| Website Demo | Mobile App Demo |
-|:------------:|:---------------:|
-| ![Web Demo](https://via.placeholder.com/300x200?text=Web+Demo) | ![Mobile Demo](https://via.placeholder.com/300x200?text=Mobile+Demo) |
-
-</div>
-
----
-
-## 🌐 Website Features
+##  Website Features
 
 Access all features through a beautiful, responsive web interface at `http://<board-ip>:5000`
 
